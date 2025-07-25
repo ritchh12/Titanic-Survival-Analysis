@@ -76,15 +76,15 @@ This project enhanced my understanding of:
 ## 📎 Screenshots
 
 ### 🔹 Accuracy Score Output
-![Accuracy Score](<img width="1329" height="378" alt="image" src="https://github.com/user-attachments/assets/4bc2254c-2350-4d0b-a6cd-1722b95efe9e" />
+![Accuracy Score] (<img width="1329" height="378" alt="image" src="https://github.com/user-attachments/assets/4bc2254c-2350-4d0b-a6cd-1722b95efe9e" />
 )
 
 ### 🔹 Confusion Matrix Heatmap
-![Confusion Matrix](<img width="826" height="676" alt="image" src="https://github.com/user-attachments/assets/5b571dc0-c4d2-47b8-9045-a9e5c632e5ad" />
+![Confusion Matrix] (<img width="826" height="676" alt="image" src="https://github.com/user-attachments/assets/5b571dc0-c4d2-47b8-9045-a9e5c632e5ad" />
 )
 
 ### 🔹 Survival Rate by Gender
-![Survival Rate Gender](<img width="848" height="748" alt="image" src="https://github.com/user-attachments/assets/c75ea109-c7f8-4cfd-b3ab-3c10594f84a8" />
+![Survival Rate Gender] (<img width="848" height="748" alt="image" src="https://github.com/user-attachments/assets/c75ea109-c7f8-4cfd-b3ab-3c10594f84a8" />
 )
 
 *(Replace image links with your uploaded GitHub image URLs)*
